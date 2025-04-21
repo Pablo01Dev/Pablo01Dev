@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Pablo Guimarães Gomes
+# 👋 Olá! Eu sou Pablo Gomes
 
 Desenvolvedor e Analista de Software
 
