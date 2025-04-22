@@ -18,13 +18,6 @@ Tenho uma **visão macro**, voltada não só para o código, mas para o **negóc
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,angular,figma,vscode,git)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablo01Dev&show_icons=true&theme=default&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo01Dev&layout=compact&langs_count=7&theme=default" />
-</div>
-
 ## 📫 Vamos conversar?
 
 Me chame para conversar sobre projetos, parcerias ou só pra trocar ideia sobre design, dev e boas experiências digitais:
