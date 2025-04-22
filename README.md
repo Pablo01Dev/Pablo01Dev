@@ -20,8 +20,6 @@ Tenho uma **visão macro**, voltada não só para o código, mas para o **negóc
 
 ## 📫 Vamos conversar?
 
-Me chame para conversar sobre projetos, parcerias ou só pra trocar ideia sobre design, dev e boas experiências digitais:
-
 - [LinkedIn](https://www.linkedin.com/in/pablo-gomes-a31197144) 
 - [Portfólio](https://seu-portfolio.com)
 - [E-mail](mailto:seu@email.com)
