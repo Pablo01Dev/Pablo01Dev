@@ -21,8 +21,8 @@ Tenho uma **visão macro**, voltada não só para o código, mas para o **negóc
 ## 📫 Vamos conversar?
 
 - [LinkedIn](https://www.linkedin.com/in/pablo-gomes-a31197144) 
-- [Portfólio](https://seu-portfolio.com)
-- [E-mail](mailto:seu@email.com)
+- [Portfólio]([https://seu-portfolio.com](https://portfolio-pablo-guima.vercel.app/#home))
+- [E-mail](mailto:pablogomesdg@gmail.com)
 
 ---
 
