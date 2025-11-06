@@ -6,9 +6,17 @@ Desenvolvedor e Analista de Software
 
 Atualmente, foco minha atuação no **desenvolvimento web**, com habilidades sólidas em:
 
-- HTML, CSS, JavaScript
+- JavaScript
+- React
+- Angular
 - Node.js
-- React e Angular
+- HTML
+- CSS
+- PHP
+- Python
+- MongoDB
+- SQL
+- API Rest
 
 Sou apaixonado por criar **interfaces intuitivas e centradas no usuário**, sempre buscando soluções que conectem tecnologia, design e o propósito do produto.
 
